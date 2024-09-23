@@ -1,0 +1,23 @@
+1,ocid1.bootvolume.oc1.ap-seoul-1.abuwgljrmclbplhhs6rw3bya52csemje5peahjcz54wsdjwsqwqzemtlukiq,oke-cn7geye7vra-ndhnv65omka-suxoz2h7m3q-3 (Boot Volume)
+2,ocid1.instance.oc1.ap-seoul-1.anuwgljrkv6tzsacp7w34jaonv3eyzdlfyjkotorw6etqnvvbqmdv7ooiuga,oke-cn7geye7vra-ndhnv65omka-suxoz2h7m3q-3
+3,ocid1.bootvolume.oc1.ap-seoul-1.abuwgljr4lsxl3oenevm26zyd2oaizckpq5uhgpar7ww25j2oorew5ke52da,oke-cpfgbvbixja-nse5cy3772a-szdrvuk3efa-2 (Boot Volume)
+4,ocid1.instance.oc1.ap-seoul-1.anuwgljrkv6tzsac6cf2ihz776id57zj3jfzmmo3pvbu4hsdbkpe6fpvtabq,oke-cpfgbvbixja-nse5cy3772a-szdrvuk3efa-2
+5,ocid1.instance.oc1.ap-seoul-1.anuwgljrkv6tzsacekjzkc6jnhwackwa5rr7umsvhn6obgp3l3bymifhgr7a,oke-cpfgbvbixja-nse5cy3772a-szdrvuk3efa-1
+6,ocid1.instance.oc1.ap-seoul-1.anuwgljrkv6tzsacnabyso6ex24qgv5mngqzvx2acc7o3lmvxoicxmdalraa,oke-cpfgbvbixja-nse5cy3772a-szdrvuk3efa-0
+7,ocid1.instance.oc1.ap-seoul-1.anuwgljrkv6tzsacgz7n2sdb2aduksarnjdysyhzha5d2caojhlzrmlwki2a,instance-20240829-1950
+8,ocid1.instance.oc1.ap-seoul-1.anuwgljrkv6tzsack5ea6erdgjpla6vlmiziwh32zv35pzqizytcj3oyp2pq,OL8_23AI_RAG_DEMO
+9,ocid1.instance.oc1.ap-seoul-1.anuwgljrkv6tzsacie26omvfq2p5ly6fb6kxq6233dumymoejtm3swrn2wxa,OL7_VM
+10,ocid1.instance.oc1.ap-seoul-1.anuwgljrkv6tzsachva5ni6yi727pv636nig3dzzv5djrykdmwsb7nex6eoa,OL9_VM
+11,ocid1.instance.oc1.ap-seoul-1.anuwgljrkv6tzsackkfdlxdxuozbsof4wvwh2kwi5fucb5bgj5r5tm5n6tta,oracledb-23ai-free-container
+12,ocid1.instance.oc1.ap-seoul-1.anuwgljrkv6tzsaccp2xp4iv7so2xwd55l7rui3vw3jgpa37ztde344ka47q,RedisClient
+13,ocid1.instance.oc1.ap-seoul-1.anuwgljrkv6tzsacezi6ovhq3logo2ldmqtes7xzxm5dh7k23pfg4zc4ci2q,ResourceSchedulerTestInstance
+14,ocid1.instance.oc1.ap-seoul-1.anuwgljrkv6tzsaclocd2kxmypttdtkgpabfle4xcu34dccdw7pgrryjboka,instance-home-20240110-2347
+15,ocid1.volume.oc1.ap-seoul-1.abuwgljrerflhhoykianekavmjju4oyclnidxfc7kphsi47bg24df63djmla,csi-c07ba130-12a5-44c1-9b66-577e8ecbc9e1
+16,ocid1.instance.oc1.ap-seoul-1.anuwgljrkv6tzsacrdz5zlixs65nvj3tn5g6kqftevdcg3qcgvbfak6usljq,BastionForOpensearch
+17,ocid1.instance.oc1.ap-seoul-1.anuwgljrkv6tzsacoslde2tm543kg4ps5tpmyraztxiol5bs2o2l6fz2lwpa,oke-cn7geye7vra-ndhnv65omka-suxoz2h7m3q-2
+18,ocid1.instance.oc1.ap-seoul-1.anuwgljrkv6tzsac7p5z36hb7caypjlyuxl2rgf7o5jd7qiwdknhsznxtdva,oke-cn7geye7vra-ndhnv65omka-suxoz2h7m3q-1
+19,ocid1.instance.oc1.ap-seoul-1.anuwgljrkv6tzsacqiudzbatooy2b5a3dne4xc4ugfmebgj2n2xoa72xechq,NATInstance
+20,ocid1.instance.oc1.ap-seoul-1.anuwgljrkv6tzsacm3rjg4ucsrj5tzopibhuoclcktc2mwmarggpdaru4ndq,PrivateVM
+21,ocid1.bootvolume.oc1.ap-seoul-1.abuwgljrxl2usz7zumce24pgii4eqbxzw32krltf7fioku7koed4fkx2u2zq,OL7_VM (Boot Volume)
+22,ocid1.bootvolume.oc1.ap-seoul-1.abuwgljr3u6iuigm6lqalipn6jvstc4xsqclpspddxprnctks7acewxs35sq,RedisClient (Boot Volume)
+23,ocid1.bootvolume.oc1.ap-seoul-1.abuwgljrfxqtl2t4ctgaxie3pcp2p6jqpjgbeoab2rbqswypgz67rrzik6sq,NATInstance (Boot Volume)
